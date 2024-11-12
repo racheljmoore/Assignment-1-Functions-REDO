@@ -3,4 +3,6 @@
 using namespace std;
 int menu();
 void addit();
+void subtract();
+
 

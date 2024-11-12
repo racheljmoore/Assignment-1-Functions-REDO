@@ -16,11 +16,14 @@ int main()
 	else if (option == 2)
 	{
 		cout << "you choose" << option;
+		subtract();
 	}
-	else
+	else 
 	{
 		cout << "exit" << endl;
 
 	}
 
 }
+
+
