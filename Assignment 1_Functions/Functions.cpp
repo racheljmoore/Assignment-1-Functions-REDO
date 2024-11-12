@@ -18,4 +18,14 @@ void addit()
 	int num2 = 4;
 	int total = num1 + num2;
 	cout << "numbers added" << total;
+
+}
+
+void subtract()
+{
+
+	int num1 = 3;
+	int num2 = 4;
+	int total = num1 - num2;
+	cout << "numbers subtract" << total;
 }
